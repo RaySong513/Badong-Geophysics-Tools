@@ -1,4 +1,4 @@
-# 巴东地球物理工具集
+# 巴东地球物理工具集 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FRaySong513%2FBadong-Geophysics-Tools&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=visits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 <img align="right" src="https://photojournal.jpl.nasa.gov/archive/PIA12146.gif" alt="GRACE Global Gravity Animation" width="200" height="200"/>
 欢迎访问 **巴东地球物理工具集** 仓库！本仓库收录了在巴东野外地球物理实习中开发的各种工具和脚本，涵盖了重力、磁法、地震和电法等多种地球物理方法。这些工具旨在帮助处理、分析和可视化野外采集的地球物理数据。
